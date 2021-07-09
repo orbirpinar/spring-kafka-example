@@ -1,4 +1,4 @@
-#Spring Boot Kafka Example
+# Spring Boot Kafka Example
 
 In order to start kafka and zookeper you should up docker images.
 
@@ -6,7 +6,7 @@ In order to start kafka and zookeper you should up docker images.
 
 To produce message
 
-[http://localhost:8080/](http://localhost:8080/{you)your-message
+[http://localhost:8080/](http://localhost:8080/{you)produce/your-message
 
 your message consume, after hit the above url
 
