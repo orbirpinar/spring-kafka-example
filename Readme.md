@@ -1,6 +1,6 @@
 # Spring Boot Kafka Example
 
-In order to start kafka and zookeper you should up docker images.
+To start Kafka and Zookeper you should up docker images.
 
 > docker-compose up -d
 
